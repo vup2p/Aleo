@@ -26,7 +26,7 @@ SSH to the instance just created
     wget https://github.com/damomine/aleominer/releases/download/v2.1.2/damominer_linux_v2.1.2.tar
     tar -xvf damominer_*.tar ; chmod +x damominer
 
-`#` Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx
+`#` Run damomine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx
 
     ./damominer --address <aleoaddressxxxxxxxxxxxxxxxxxxxxx> --proxy aleo1.damominer.hk:9090 >> aleo.log 2>&1 &
 
