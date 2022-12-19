@@ -9,7 +9,7 @@ Select Docker Image: `ubuntu:20.04`
 
 SSH to the instance just created
 
-`#Run commands below`
+`#` Run commands below
 
     apt update -y; apt upgrade -y; apt install cron vim cmake curl libssl-dev libclang-dev git-all wget -y
     
@@ -17,19 +17,19 @@ SSH to the instance just created
 
     source "$HOME/.cargo/env"; rustup update stable; apt install kmod nvidia-cuda-toolkit -y
 
-`# Check version`
+`#` Check version
 
     nvidia-smi
 
-`# Download damomine`
+`#` Download damomine
 
     wget https://github.com/damomine/aleominer/releases/download/v2.1.2/damominer_linux_v2.1.2.tar
     tar -xvf damominer_*.tar ; chmod +x damominer
 
-`# Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx`
+`#` Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx
 
     ./damominer --address <aleoaddressxxxxxxxxxxxxxxxxxxxxx> --proxy aleo1.damominer.hk:9090 >> aleo.log 2>&1 &
 
-`# check log`
+`#` check log
 
     tail -f aleo.log
