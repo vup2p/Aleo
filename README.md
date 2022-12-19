@@ -23,7 +23,7 @@ Run commands below
 
 `# Download damomine`
 
-    wget https://github.com/damomine/aleominer/releases/download/damominer_linux_v2.0.0/damominer_linux_v2.0.0.tar
+    wget https://github.com/damomine/aleominer/releases/download/v2.1.2/damominer_linux_v2.1.2.tar
     tar -xvf damominer_*.tar ; chmod +x damominer
 
 `# Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx`
