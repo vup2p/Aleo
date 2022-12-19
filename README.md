@@ -9,7 +9,7 @@ Select Docker Image: `ubuntu:20.04`
 
 SSH to the instance just created
 
-Run commands below
+`#Run commands below`
 
     apt update -y; apt upgrade -y; apt install cron vim cmake curl libssl-dev libclang-dev git-all wget -y
     
