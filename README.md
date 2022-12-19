@@ -26,7 +26,7 @@ Run commands below
     wget https://github.com/damomine/aleominer/releases/download/damominer_linux_v2.0.0/damominer_linux_v2.0.0.tar
     tar -xvf damominer_*.tar ; chmod +x damominer
 
-`# Run damonine`
+`# Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx`
 
     ./damominer --address <aleoaddressxxxxxxxxxxxxxxxxxxxxx> --proxy aleo1.damominer.hk:9090 >> aleo.log 2>&1 &
 
