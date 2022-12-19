@@ -5,7 +5,8 @@ Login to rent GPUs https://bit.ly/rentgpu
 Click **CLIENT** > **Create** > **Edit Image & Config...**
 
 Select Docker Image: `ubuntu:20.04`
-![image](https://user-images.githubusercontent.com/102939807/208348128-183ddcbb-3e06-49d8-b0c2-c792559383ae.png)
+![image](https://user-images.githubusercontent.com/102939807/208352603-fe479a0e-05e6-4b9a-ba31-a7f1f9545b88.png)
+
 
 SSH to the instance just created
 
