@@ -39,3 +39,9 @@ SSH to the instance just created
 `#` check log
 
     tail -f aleo.log
+`#` check reward
+
+https://www.damominer.hk  
+https://www.aleo.network  
+https://aleo123.io  
+https://explorer.hamp.app  
