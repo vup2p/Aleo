@@ -29,7 +29,7 @@ SSH to the instance just created
 
 `#` Download damomine
 
-    wget https://github.com/damomine/aleominer/releases/download/v2.1.2/damominer_linux_v2.1.2.tar
+    wget https://github.com/damomine/aleominer/releases/download/v2.2.0/damominer_linux_v2.2.0.tar
     tar -xvf damominer_*.tar ; chmod +x damominer
 
 `#` Run damonine, change your aleoaleoaddressxxxxxxxxxxxxxxxxxxxxx
