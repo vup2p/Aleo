@@ -14,7 +14,7 @@ SSH to the instance just created
 
     apt update -y; apt upgrade -y; apt install cron vim cmake curl libssl-dev libclang-dev git-all wget -y
     
-    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- --profile default
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 <br/>
 
     source "$HOME/.cargo/env"; rustup update stable
