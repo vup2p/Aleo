@@ -29,7 +29,7 @@ SSH to the instance just created
 
 `#` Download damomine
 
-    wget https://github.com/damomine/aleominer/releases/download/v2.3.0/damominer_linux_v2.3.1.tar
+    wget https://github.com/damomine/aleominer/releases/download/v2.3.1/damominer_linux_v2.3.1.tar
     
     tar -xvf damominer_*.tar ; chmod +x damominer
 
